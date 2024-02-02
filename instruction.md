@@ -1,9 +1,12 @@
 # Инструкция по **MarkDown**
 
+![Git](https://content.timeweb.com/assets/e41e86c7-bcc2-4740-a783-b2fd6ff6f839?width=1920&height=1080 'логотип Git')
+
 ### Что такое **Git**?
 
 >***Git** - система контроля версий, которая позволяет сразу нескольким разработчикам сохранять и отслеживать изменения в файлах вашего проекта.*
 
+---------------------
 ## Некоторые команды для работы в терминале **Git**
 
 * создание репозитория
@@ -41,7 +44,10 @@ git log --oneline
 git checkout
 ```
 
+------------------
 ## Немного о разметке в **MarkDown**
+
+![MarkDown](https://lh3.googleusercontent.com/proxy/8rHDz72ZXuplPJqA5nN3i5FXWInWe0UUgZqiVnmf9VjZ60shiY41bXG9HfHu344xuIh-bPE1FV5khdukvDeM9GWR4SpeGa6lbK3471TX02D_j6kOUJ22om5QtLoTWFnX8vKuqjjWxnUDGtU6DNIAFnIpm9wRRF_HTCWOK5F3HRb9xYd4ZBsVqC3TFa_2iC4 'логотип MarkDown')
 
 >***Markdown** — это простой язык разметки, используемый для создания форматированного текста (например, HTML) с помощью текстового редактора.*
 
@@ -77,3 +83,6 @@ git checkout
 ```sh
 >Слово
 ```
+
+---------------------
+создано при поддержке [GeekBrains](https://gb.ru/ 'официальный сайт')
