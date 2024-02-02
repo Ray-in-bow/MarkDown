@@ -1,4 +1,5 @@
 Hello world!
 
+*Курсив*
 
 abc
