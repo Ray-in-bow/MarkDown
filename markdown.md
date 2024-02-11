@@ -122,6 +122,8 @@ git log --graph
 ```
 ![котик](https://i.pinimg.com/564x/61/24/c0/6124c0afb953619ae6613546ea39eeb8.jpg 'котииик')
 
+кукуцаполь
+
 ---------------------
 создано при поддержке [GeekBrains](https://gb.ru/ 'официальный сайт')
 ![GeekBrains](https://tmsearch.onlinepatent.ru/images/75a/75ad465e-1cf7-46c9-961d-6a20ac490e53.jpg 'логотип GeekBrains')
