@@ -1,0 +1,15 @@
+E:\Настя\GeekBrains\C#\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Настя\GeekBrains\C#\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+E:\Настя\GeekBrains\C#\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+E:\Настя\GeekBrains\C#\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+E:\Настя\GeekBrains\C#\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+E:\Настя\GeekBrains\C#\Task3\bin\Debug\net8.0\Task3.exe
+E:\Настя\GeekBrains\C#\Task3\bin\Debug\net8.0\Task3.deps.json
+E:\Настя\GeekBrains\C#\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+E:\Настя\GeekBrains\C#\Task3\bin\Debug\net8.0\Task3.dll
+E:\Настя\GeekBrains\C#\Task3\bin\Debug\net8.0\Task3.pdb
+E:\Настя\GeekBrains\C#\Task3\obj\Debug\net8.0\Task3.dll
+E:\Настя\GeekBrains\C#\Task3\obj\Debug\net8.0\refint\Task3.dll
+E:\Настя\GeekBrains\C#\Task3\obj\Debug\net8.0\Task3.pdb
+E:\Настя\GeekBrains\C#\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+E:\Настя\GeekBrains\C#\Task3\obj\Debug\net8.0\ref\Task3.dll
