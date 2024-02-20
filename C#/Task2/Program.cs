@@ -1,28 +1,60 @@
-﻿int i1 = 5;
-int i2 = 6;
-int sum = i1 + i2;
-Console.WriteLine(sum);
-
-long l1 = 6;
-long sum2 = l1 + i1;
-Console.WriteLine(sum2);
-
-double d1 = 5.5;
-double sum3 = d1 + i1;
-Console.WriteLine(sum3);
-
-int product1 = i1 * i2;
-long product2 = l1 * i1;
-double product3 = i1 * d1;
-Console.WriteLine(product1);
-Console.WriteLine(product2);
-Console.WriteLine(product3);
+﻿// Task1
+Console.Write("num: ");
+string num1 = Console.ReadLine()!;
+int num = int.Parse(num1);
+if (num % 7 == 0 && num % 23 == 0)
+    Console.WriteLine("Yes");
+else
+    Console.WriteLine("No");
 
 
-int quotient = i1 / i2;
-Console.WriteLine(quotient);
+// Task2
+Console.Write("X: ");
+string x1 = Console.ReadLine()!;
+int x = int.Parse(x1);
+Console.Write("Y: ");
+string y1 = Console.ReadLine()!;
+int y = int.Parse(y1);
+if (y > 0)
+{
+    if (x > 0)
+        Console.Write("I");
+    else
+        Console.Write("II");
+}
+else
+{
+    if (x > 0)
+        Console.Write("IV");
+    else
+        Console.Write("III");
+}
 
-d1 = 6;
-double quotient2 = i1 / d1;
-Console.WriteLine(quotient2);
 
+// Task3
+Console.Write("Num: ");
+string Num1 = Console.ReadLine()!;
+int Num = int.Parse(Num1);
+if (Num / 10 >= Num % 10)
+    Console.Write(Num / 10);
+else
+    Console.Write(Num % 10);
+
+
+// Task4
+Console.Write("N: ");
+string n = Console.ReadLine()!;
+int N = int.Parse(n);
+while (N > 0)
+{
+    if (N > 9)
+    {
+        Console.Write(N % 10 + ", ");
+    }
+    else
+    {
+        Console.Write(N);
+        N = 0;
+    }
+    N /= 10;
+}
