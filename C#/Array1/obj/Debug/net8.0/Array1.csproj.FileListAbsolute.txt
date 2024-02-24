@@ -1,0 +1,15 @@
+E:\Настя\GeekBrains\C#\Array1\bin\Debug\net8.0\Array1.exe
+E:\Настя\GeekBrains\C#\Array1\bin\Debug\net8.0\Array1.deps.json
+E:\Настя\GeekBrains\C#\Array1\bin\Debug\net8.0\Array1.runtimeconfig.json
+E:\Настя\GeekBrains\C#\Array1\bin\Debug\net8.0\Array1.dll
+E:\Настя\GeekBrains\C#\Array1\bin\Debug\net8.0\Array1.pdb
+E:\Настя\GeekBrains\C#\Array1\obj\Debug\net8.0\Array1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Настя\GeekBrains\C#\Array1\obj\Debug\net8.0\Array1.AssemblyInfoInputs.cache
+E:\Настя\GeekBrains\C#\Array1\obj\Debug\net8.0\Array1.AssemblyInfo.cs
+E:\Настя\GeekBrains\C#\Array1\obj\Debug\net8.0\Array1.csproj.CoreCompileInputs.cache
+E:\Настя\GeekBrains\C#\Array1\obj\Debug\net8.0\Array1.sourcelink.json
+E:\Настя\GeekBrains\C#\Array1\obj\Debug\net8.0\Array1.dll
+E:\Настя\GeekBrains\C#\Array1\obj\Debug\net8.0\refint\Array1.dll
+E:\Настя\GeekBrains\C#\Array1\obj\Debug\net8.0\Array1.pdb
+E:\Настя\GeekBrains\C#\Array1\obj\Debug\net8.0\Array1.genruntimeconfig.cache
+E:\Настя\GeekBrains\C#\Array1\obj\Debug\net8.0\ref\Array1.dll
